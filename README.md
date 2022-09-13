@@ -8,7 +8,6 @@ React Image Gallery
 ### Live Demo (try it on mobile for swipe support)
 [`linxtion.com/demo/react-image-gallery`](http://linxtion.com/demo/react-image-gallery)
 
-![demo gif](https://github.com/xiaolin/react-image-gallery/raw/master/static/image_gallery_v1.0.2.gif)
 
 React image gallery is a React component for building image galleries and carousels
 
